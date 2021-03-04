@@ -1,94 +1,108 @@
-id: opecha:P000371
+id: P000371
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD17467
   title: ཏཱ་རེ་ལྷ་མོ་དང་ནམ་སྤྲུལ་འཇིགས་མེད་ཕུན་ཚོགས་ཀྱི་གཏེར་ཆོས།
-  volume:
+  author: ''
+  volumes:
     be0db4786d4049b2a19a67902cffaaf0:
       image_group_id: I4PD2916
       title: Volume 1 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 1
       total_pages: 298
+      base_file: v001.txt
     1e07e045995c4c748fe9253823062006:
       image_group_id: I4PD2917
       title: Volume 2 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 2
       total_pages: 194
+      base_file: v002.txt
     44cf52f0c3e94c23851cc73757c31b01:
       image_group_id: I4PD2918
       title: Volume 3 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 3
       total_pages: 159
+      base_file: v003.txt
     4d2e1bcfa4ef4e8f8b4b74c08c5cbdff:
       image_group_id: I4PD2919
       title: Volume 4 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 4
       total_pages: 207
+      base_file: v004.txt
     1c9a206c832d44e384ee1324ce830a48:
       image_group_id: I4PD2920
       title: Volume 5 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 5
       total_pages: 210
+      base_file: v005.txt
     eb2807e24be9428d84d0ff769b2a453c:
       image_group_id: I4PD2921
       title: Volume 6 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 6
       total_pages: 295
+      base_file: v006.txt
     b40ad65b54f54d9b8fa21347d7420028:
       image_group_id: I4PD2922
       title: Volume 7 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 7
       total_pages: 192
+      base_file: v007.txt
     9331a69564af4e47b5cde65c6107a243:
       image_group_id: I4PD2923
       title: Volume 8 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 8
       total_pages: 226
+      base_file: v008.txt
     abc0c88213eb4982a938f1494b86f218:
       image_group_id: I4PD2924
       title: Volume 9 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 9
       total_pages: 220
+      base_file: v009.txt
     025a1a81c8ca4c139a5037178c547dce:
       image_group_id: I4PD2925
       title: Volume 10 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 10
       total_pages: 192
+      base_file: v010.txt
     410425b8bf704bf6951e4a0fcb0f4ae3:
       image_group_id: I4PD2926
       title: Volume 11 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 11
       total_pages: 148
+      base_file: v011.txt
     117a51bb8a4b41769216c7fb4501606a:
       image_group_id: I4PD2927
       title: Volume 12 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 12
       total_pages: 148
+      base_file: v012.txt
     4b14bd72fa55483f8eafb0f07d54bd21:
       image_group_id: I4PD2928
       title: Volume 13 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 13
       total_pages: 556
+      base_file: v013.txt
     d1c7115d2b644013ba1f6a53191e5463:
       image_group_id: I4PD2929
       title: Volume 14 of tA re lha mo dang nam sprul 'jigs med phun tshogs kyi gter
         chos/
       volume_number: 14
       total_pages: 344
-  author: ''
+      base_file: v014.txt
 ebook_metadata:
   title: ཏཱ་རེ་ལྷ་མོ་དང་ནམ་སྤྲུལ་འཇིགས་མེད་ཕུན་ཚོགས་ཀྱི་གཏེར་ཆོས།
   author: ''
