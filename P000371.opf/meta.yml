@@ -1,5 +1,7 @@
 id: P000371
 initial_creation_type: ocr
+created_at: 17/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W2PD17467
   title: ཏཱ་རེ་ལྷ་མོ་དང་ནམ་སྤྲུལ་འཇིགས་མེད་ཕུན་ཚོགས་ཀྱི་གཏེར་ཆོས།
@@ -103,10 +105,3 @@ source_metadata:
       volume_number: 14
       total_pages: 344
       base_file: v014.txt
-ebook_metadata:
-  title: ཏཱ་རེ་ལྷ་མོ་དང་ནམ་སྤྲུལ་འཇིགས་མེད་ཕུན་ཚོགས་ཀྱི་གཏེར་ཆོས།
-  author: ''
-  sku: P000371
-  cover: cover.jpg
-  layers:
-  - pagination
